@@ -7,7 +7,7 @@
 - 🏡 My world except my college is my home located in Kanakdas colony Ambedkar nagar Angol Belgaum.
 - 🆔 My identification in college is my SRN number 01fe23bbt034.
 - 🔢 My roll number in my class is 264.
-- 💌 My personal mail id is leelavatispatil@gmail.com
+- 💌 My personal mail id is leelavatispatil@gmail.com 
 <!---
 Laxmi-Patil24/Laxmi-Patil24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
